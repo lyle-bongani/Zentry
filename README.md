@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">An Awwwards Winning Website</h3>
+  <h3 align="center">Modern Web Design</h3>
   
   <p align="center">
     <a href="https://github.com/lyle-bongani">
@@ -49,9 +49,9 @@ Build a visually captivating website inspired by **[Zentry](https://zentry.com/)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- GSAP
-- React.js
-- Tailwind CSS
+- GSAP for advanced animations
+- React.js for the frontend framework
+- Tailwind CSS for styling
 
 ## <a name="features">🔋 Features</a>
 
