@@ -471,11 +471,54 @@ Assets used in the project can be found [here](https://drive.google.com/file/d/1
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
+### Getting Started
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/lyle-bongani/Zentry.git
+   cd Zentry
+   ```
 
-<a href="https://jsmastery.pro/next15" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
-</a>
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start Development Server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for Production**
+   ```bash
+   npm run build
+   ```
+
+### Tech Stack Details
+
+- **Frontend Framework**: React.js with Vite
+  - Modern component-based architecture
+  - Fast development and hot module replacement
+  - Optimized production builds
+
+- **Animation Engine**: GSAP (GreenSock Animation Platform)
+  - Smooth scroll-triggered animations
+  - Advanced timeline controls
+  - Performance-optimized animations
+
+- **Styling**: Tailwind CSS
+  - Utility-first CSS framework
+  - Responsive design utilities
+  - Custom component classes
+
+- **Development Tools**:
+  - Vite for fast development
+  - ESLint for code quality
+  - Prettier for code formatting
+  - Modern JavaScript (ES6+)
+
+- **Performance Features**:
+  - Code splitting
+  - Lazy loading
+  - Optimized assets
+  - Responsive images
