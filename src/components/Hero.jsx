@@ -159,6 +159,7 @@ const Hero = () => {
               title="Watch trailer"
               leftIcon={<TiLocationArrow />}
               containerClass="bg-yellow-300 flex-center gap-1"
+              href="https://youtu.be/x1_-btXPWpc?si=bAZGMOcqb_o_Ifvx"
             />
           </div>
         </div>
