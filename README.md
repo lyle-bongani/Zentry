@@ -1,33 +1,39 @@
+# Zentry - Modern Web Design & Development
+
 <div align="center">
   <br />
-  <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
+  <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Zentry Web Design Project - Modern Interactive Website" width="800" height="400">
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React.js - Modern Frontend Framework" />
+    <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="GSAP - Advanced Animation Library" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="Tailwind CSS - Utility-First CSS Framework" />
   </div>
 
-  <h3 align="center">Modern Web Design</h3>
-  
   <p align="center">
     <a href="https://github.com/lyle-bongani">
-      <img src="https://img.shields.io/badge/GitHub-@lyle--bongani-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
+      <img src="https://img.shields.io/badge/GitHub-@lyle--bongani-black?style=for-the-badge&logo=github" alt="GitHub Profile - Lyle Bongani" />
     </a>
   </p>
 </div>
+
+## About Zentry
+
+Zentry is a cutting-edge web design showcase that demonstrates the power of modern web technologies. This project features advanced animations, geometric transitions, and immersive storytelling, all built with React, GSAP, and Tailwind CSS. Experience the future of web design with our interactive and responsive implementation.
 
 ## 🎨 Design & Credits
 
 This project is a recreation of the stunning design from **[Zentry](https://zentry.com/)**. All design elements, animations, and visual concepts are inspired by their original work. Special thanks to the Zentry team for their innovative and creative approach to web design.
 
-### Design Elements Used:
+### Key Design Elements:
 - Geometric transitions and clip-path animations
 - Scroll-triggered animations
 - 3D hover effects
 - Video storytelling elements
 - Modern UI/UX patterns
+- Responsive design principles
+- Performance-optimized animations
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -38,6 +44,18 @@ This project is a recreation of the stunning design from **[Zentry](https://zent
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
+8. 📚 [Documentation](#documentation)
+9. 🤝 [Contributing](#contributing)
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+- **Lyle Bongani** - [GitHub Profile](https://github.com/lyle-bongani)
+- **Portfolio**: [View Portfolio](https://github.com/lyle-bongani)
+- **Contact**: [Get in Touch](https://github.com/lyle-bongani)
 
 ## ⚠️ Important Note
 
@@ -49,9 +67,11 @@ Build a visually captivating website inspired by **[Zentry](https://zentry.com/)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- GSAP for advanced animations
-- React.js for the frontend framework
-- Tailwind CSS for styling
+- **GSAP**: Advanced animation library for smooth, performant animations
+- **React.js**: Modern frontend framework for building interactive UIs
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development
+- **Vite**: Next-generation frontend tooling for faster development
+- **Modern JavaScript**: ES6+ features for enhanced functionality
 
 ## <a name="features">🔋 Features</a>
 
@@ -67,7 +87,9 @@ Build a visually captivating website inspired by **[Zentry](https://zentry.com/)
 
 👉 **Completely Responsive**: Flawless adaptation across all devices, ensuring a consistent experience.
 
-and many more, including code architecture and reusability
+👉 **Performance Optimized**: Efficient code structure and optimized assets for fast loading times.
+
+👉 **Modern Architecture**: Clean, maintainable code following best practices and design patterns.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -78,7 +100,7 @@ Follow these steps to set up the project locally on your machine.
 Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
+- [Node.js](https://nodejs.org/en) (v16 or higher)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
 **Cloning the Repository**
@@ -103,6 +125,20 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+## <a name="documentation">📚 Documentation</a>
+
+For detailed documentation about the project's components, animations, and implementation details, please refer to our [Documentation Guide](docs/README.md).
+
+## <a name="contributing">🤝 Contributing</a>
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## <a name="snippets">🕸️ Snippets</a>
 
